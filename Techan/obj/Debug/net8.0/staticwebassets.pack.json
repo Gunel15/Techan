@@ -1,6 +1,342 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\css\\main.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\main.css.map"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\css\\vendors\\bootstrap.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\css\\vendors\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\css\\vendors\\material-icon-round.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\material-icon-round.css"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\css\\vendors\\normalize.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\normalize.css"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\css\\vendors\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\css\\vendors\\select2.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\fonts\\material-icon\\MaterialIcons-Outlined.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\material-icon\\MaterialIcons-Outlined.ttf"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\fonts\\material-icon\\MaterialIcons-Outlined.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\material-icon\\MaterialIcons-Outlined.woff"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\fonts\\material-icon\\MaterialIcons-Outlined.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\material-icon\\MaterialIcons-Outlined.woff2"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\fonts\\material-icon\\MaterialIcons-Round.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\material-icon\\MaterialIcons-Round.ttf"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\fonts\\material-icon\\MaterialIcons-Round.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\material-icon\\MaterialIcons-Round.woff"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\fonts\\material-icon\\MaterialIcons-Round.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\material-icon\\MaterialIcons-Round.woff2"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\fonts\\material-icon\\MaterialIcons-Sharp.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\material-icon\\MaterialIcons-Sharp.ttf"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\fonts\\material-icon\\MaterialIcons-Sharp.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\material-icon\\MaterialIcons-Sharp.woff"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\fonts\\material-icon\\MaterialIcons-Sharp.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\material-icon\\MaterialIcons-Sharp.woff2"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\fonts\\material-icon\\MaterialIcons-TwoTone.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\material-icon\\MaterialIcons-TwoTone.ttf"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\fonts\\material-icon\\MaterialIcons-TwoTone.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\material-icon\\MaterialIcons-TwoTone.woff"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\fonts\\material-icon\\MaterialIcons-TwoTone.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\material-icon\\MaterialIcons-TwoTone.woff2"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\fonts\\material-icon\\MaterialIcons.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\material-icon\\MaterialIcons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\fonts\\material-icon\\MaterialIcons.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\material-icon\\MaterialIcons.woff"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\fonts\\material-icon\\MaterialIcons.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\material-icon\\MaterialIcons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\brands\\brand-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\brands\\brand-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\brands\\brand-10.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\brands\\brand-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\brands\\brand-11.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\brands\\brand-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\brands\\brand-12.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\brands\\brand-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\brands\\brand-13.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\brands\\brand-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\brands\\brand-14.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\brands\\brand-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\brands\\brand-15.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\brands\\brand-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\brands\\brand-16.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\brands\\brand-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\brands\\brand-17.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\brands\\brand-17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\brands\\brand-18.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\brands\\brand-18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\brands\\brand-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\brands\\brand-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\brands\\brand-3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\brands\\brand-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\brands\\brand-4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\brands\\brand-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\brands\\brand-5.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\brands\\brand-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\brands\\brand-6.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\brands\\brand-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\brands\\brand-7.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\brands\\brand-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\brands\\brand-8.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\brands\\brand-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\brands\\brand-9.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\brands\\brand-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\brands\\brand.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\brands\\brand.jpg"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\card-brands\\1.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\card-brands\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\card-brands\\2.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\card-brands\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\card-brands\\3.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\card-brands\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\card-brands\\4.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\card-brands\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\icons\\stars-active.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\icons\\stars-active.svg"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\icons\\starts-disable.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\icons\\starts-disable.svg"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\items\\1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\items\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\items\\10.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\items\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\items\\11.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\items\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\items\\12-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\items\\12-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\items\\12-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\items\\12-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\items\\12.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\items\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\items\\2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\items\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\items\\3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\items\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\items\\4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\items\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\items\\5.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\items\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\items\\6.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\items\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\items\\7.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\items\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\items\\8.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\items\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\items\\9.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\items\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\misc\\map.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\misc\\map.jpg"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\people\\avatar1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\people\\avatar1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\people\\avatar2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\people\\avatar2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\people\\avatar3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\people\\avatar3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\people\\avatar4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\people\\avatar4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\theme\\404.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\theme\\404.png"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\theme\\favicon.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\theme\\favicon.svg"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\theme\\flag-cn.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\theme\\flag-cn.png"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\theme\\flag-fr.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\theme\\flag-fr.png"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\theme\\flag-jp.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\theme\\flag-jp.png"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\theme\\flag-us.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\theme\\flag-us.png"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\theme\\logo.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\theme\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\imgs\\theme\\upload.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\imgs\\theme\\upload.svg"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\js\\custom-chart.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\custom-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\js\\vendors\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\vendors\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\js\\vendors\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\vendors\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\js\\vendors\\chart.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\vendors\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\js\\vendors\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\vendors\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\js\\vendors\\jquery.fullscreen.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\vendors\\jquery.fullscreen.min.js"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\js\\vendors\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\vendors\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\admin\\assets\\js\\vendors\\select2.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\vendors\\select2.min.js"
+    },
+    {
       "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\assets\\css\\main.css",
       "PackagePath": "staticwebassets\\assets\\css\\main.css"
     },
