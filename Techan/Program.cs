@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+using Techan.DataAccessLayer;
+
 namespace Techan
 {
     public class Program
@@ -7,6 +10,11 @@ namespace Techan
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
+            builder.Services.AddDbContext<TechanDbContext>(opt =>
+            {
+                opt.UseSqlServer(builder.Configuration.GetConnectionString("MSSQL"));
+            });
+
             builder.Services.AddControllersWithViews();
 
             var app = builder.Build();

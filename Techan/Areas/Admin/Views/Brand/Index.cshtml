@@ -1,0 +1,42 @@
+﻿
+@{
+    int order = 1;
+}
+
+<section class="content-main">
+    <div class="content-header">
+        <h2 class="content-title">Slider List </h2>
+        <a asp-action="Create" class="btn btn-primary">Create</a>
+    </div>
+    <div class="card mb-4">
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th>#ID</th>
+                            <th scope="col">Image</th>
+                            <th scope="col">Name</th>
+                            <th colspan="2" class="text-end"> Action </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@(order++)</td>
+                                <td>
+                                    <a asp-action="Update" class="btn btn-primary" asp-route-id="@item.Id">Update</a>
+                                    </td>
+                                    <td>
+                                    <a asp-action="Delete" class="btn btn-secondary" asp-route-id="@item.Id">Delete</a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</section>
+
