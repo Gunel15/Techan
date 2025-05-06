@@ -150,8 +150,7 @@
               "RelativeToolTip": "Techan\\ViewModels\\Brands\\BrandGetVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T19:12:34.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T19:12:34.392Z"
             },
             {
               "$type": "Document",
@@ -163,8 +162,7 @@
               "RelativeToolTip": "Techan\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAUwCQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T18:42:07.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T18:42:07.236Z"
             },
             {
               "$type": "Document",
@@ -176,8 +174,7 @@
               "RelativeToolTip": "Techan\\Areas\\Admin\\Controllers\\BrandController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T18:40:15.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T18:40:15.177Z"
             },
             {
               "$type": "Document",
@@ -189,8 +186,7 @@
               "RelativeToolTip": "Techan\\Migrations\\20250505183434_CreatedProductsAndBrandsTable.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T18:34:36.352Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T18:34:36.352Z"
             },
             {
               "$type": "Document",
@@ -202,8 +198,7 @@
               "RelativeToolTip": "Techan\\ViewModels\\Sliders\\SliderUpdateVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T13:17:04.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T13:17:04.829Z"
             },
             {
               "$type": "Document",
@@ -215,8 +210,7 @@
               "RelativeToolTip": "Techan\\ScaffoldingReadMe.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-05-01T19:21:08.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T19:21:08.125Z"
             },
             {
               "$type": "Document",
@@ -226,7 +220,7 @@
               "RelativeDocumentMoniker": "Techan\\Models\\Brand.cs",
               "ToolTip": "C:\\Users\\V\u0026V\\source\\repos\\Techan\\Techan\\Models\\Brand.cs",
               "RelativeToolTip": "Techan\\Models\\Brand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T18:21:56.921Z",
               "EditorCaption": ""
@@ -241,8 +235,7 @@
               "RelativeToolTip": "Techan\\Migrations\\20250505181458_CreatedCategoriesTable.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAIwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T18:14:59.307Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T18:14:59.307Z"
             },
             {
               "$type": "Document",
@@ -254,8 +247,7 @@
               "RelativeToolTip": "Techan\\Models\\Product.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAADwvw8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T18:19:13.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T18:19:13.948Z"
             },
             {
               "$type": "Document",
@@ -267,8 +259,7 @@
               "RelativeToolTip": "Techan\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
               "ViewState": "AgIAABoAAAAAAAAAAAAmwCcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-04T11:12:29.271Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-04T11:12:29.271Z"
             },
             {
               "$type": "Document",
@@ -280,8 +271,7 @@
               "RelativeToolTip": "Techan\\Models\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T18:09:54.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T18:09:54.502Z"
             },
             {
               "$type": "Document",
@@ -293,8 +283,7 @@
               "RelativeToolTip": "Techan\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T18:09:38.685Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T18:09:38.685Z"
             },
             {
               "$type": "Document",
@@ -306,8 +295,7 @@
               "RelativeToolTip": "Techan\\Migrations\\20250504092014_CreatedSlidersTable.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAIwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T09:20:15.664Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-04T09:20:15.664Z"
             },
             {
               "$type": "Document",
@@ -319,8 +307,7 @@
               "RelativeToolTip": "Techan\\Areas\\Admin\\Controllers\\SliderController.cs",
               "ViewState": "AgIAAG4AAAAAAAAAAAAIwIIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T09:26:21.765Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-04T09:26:21.765Z"
             },
             {
               "$type": "Document",
@@ -332,8 +319,7 @@
               "RelativeToolTip": "Techan\\DataAccessLayer\\TechanDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T08:57:53.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-04T08:57:53.37Z"
             },
             {
               "$type": "Document",
@@ -369,8 +355,7 @@
               "RelativeToolTip": "Techan\\Models\\Slider.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T09:07:48.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-04T09:07:48.866Z"
             },
             {
               "$type": "Document",
