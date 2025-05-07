@@ -1,4 +1,4 @@
-﻿
+﻿@model List<BrandGetVM>
 @{
     int order = 1;
 }
@@ -25,6 +25,10 @@
                         {
                             <tr>
                                 <td>@(order++)</td>
+                                <td>
+                                    <img src="~/imgs/brands/@item.ImageUrl" width="120" />
+                                </td>
+                                <td>@item.Name</td>
                                 <td>
                                     <a asp-action="Update" class="btn btn-primary" asp-route-id="@item.Id">Update</a>
                                     </td>

@@ -308,3 +308,4 @@ wwwroot\assets\js\vendor\jquery-3.6.0.min.js
 wwwroot\assets\js\vendor\jquery-migrate-3.3.0.min.js
 wwwroot\assets\js\vendor\modernizr-3.6.0.min.js
 wwwroot\favicon.ico
+wwwroot\imgs\brands\ty01vcug.ssr.png

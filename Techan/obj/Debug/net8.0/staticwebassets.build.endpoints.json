@@ -25421,6 +25421,88 @@
           "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
         }
       ]
+    },
+    {
+      "Route": "imgs/brands/ty01vcug.ssr.2hl3hf0qf5.png",
+      "AssetFile": "imgs/brands/ty01vcug.ssr.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iqMEFhSUSGrxtx7kGi5B+ZNziPiAFHT/oF1XYOvccU0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 18:32:52 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2hl3hf0qf5"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iqMEFhSUSGrxtx7kGi5B+ZNziPiAFHT/oF1XYOvccU0="
+        },
+        {
+          "Name": "label",
+          "Value": "imgs/brands/ty01vcug.ssr.png"
+        }
+      ]
+    },
+    {
+      "Route": "imgs/brands/ty01vcug.ssr.png",
+      "AssetFile": "imgs/brands/ty01vcug.ssr.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iqMEFhSUSGrxtx7kGi5B+ZNziPiAFHT/oF1XYOvccU0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 18:32:52 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iqMEFhSUSGrxtx7kGi5B+ZNziPiAFHT/oF1XYOvccU0="
+        }
+      ]
     }
   ]
 }

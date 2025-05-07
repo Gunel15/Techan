@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mf0L+lJNHQBEYxcgPNgiEBug9oh15YtuE23LK5NJD4k=",
+  "Hash": "XhXVEfZ9H5aQUaFdPnJhX5B+VYc1Xf7Ba+pzqQ5VcZg=",
   "Source": "Techan",
   "BasePath": "_content/Techan",
   "Mode": "Default",
@@ -6525,6 +6525,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\imgs\\brands\\ty01vcug.ssr.png",
+      "SourceId": "Techan",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\",
+      "BasePath": "_content/Techan",
+      "RelativePath": "imgs/brands/ty01vcug.ssr#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2hl3hf0qf5",
+      "Integrity": "iqMEFhSUSGrxtx7kGi5B+ZNziPiAFHT/oF1XYOvccU0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imgs\\brands\\ty01vcug.ssr.png"
     }
   ],
   "Endpoints": [
@@ -31945,6 +31966,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/brands/ty01vcug.ssr.2hl3hf0qf5.png",
+      "AssetFile": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\imgs\\brands\\ty01vcug.ssr.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iqMEFhSUSGrxtx7kGi5B+ZNziPiAFHT/oF1XYOvccU0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 18:32:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2hl3hf0qf5"
+        },
+        {
+          "Name": "label",
+          "Value": "imgs/brands/ty01vcug.ssr.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iqMEFhSUSGrxtx7kGi5B+ZNziPiAFHT/oF1XYOvccU0="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/brands/ty01vcug.ssr.png",
+      "AssetFile": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\imgs\\brands\\ty01vcug.ssr.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iqMEFhSUSGrxtx7kGi5B+ZNziPiAFHT/oF1XYOvccU0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 18:32:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iqMEFhSUSGrxtx7kGi5B+ZNziPiAFHT/oF1XYOvccU0="
         }
       ]
     }

@@ -1,0 +1,26 @@
+﻿@model BrandCreateVM
+<section class="content-main">
+	<div class="content-header">
+		<h2 class="content-title">Add New Brand</h2>
+		<div>
+			<a asp-action="Index" class="btn btn-md rounded font-sm hover-up">Go to list</a>
+		</div>
+	</div>
+	<div class="card mb-4">
+		<form method="post" enctype="multipart/form-data"class="card-body" >
+			<div class="mb-4">
+				<label asp-for="Name" class="form-label"></label>
+				<input asp-for="Name" class="form-control">
+				<span class="text-sm text-danger" asp-validation-for="Name"></span>
+			</div>
+			<div class="mb-4 input-upload">
+				<label asp-for="ImageFile" class="form-label">
+				<img src="~/admin/assets/imgs/theme/upload.svg" alt="">
+				</label>
+				<input asp-for="ImageFile" class="form-control">
+				<span class="text-sm text-danger" asp-validation-for="ImageFile"></span>
+			</div>
+			<button type="submit" class="btn btn-primary">Create</button>
+		</form>
+	</div>
+</section>
