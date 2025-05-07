@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XhXVEfZ9H5aQUaFdPnJhX5B+VYc1Xf7Ba+pzqQ5VcZg=",
+  "Hash": "h18RrvhMS/WMxH7QQa21t/ASpNI38l8nglFrQZRn7Es=",
   "Source": "Techan",
   "BasePath": "_content/Techan",
   "Mode": "Default",
@@ -6541,11 +6541,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "2hl3hf0qf5",
-      "Integrity": "iqMEFhSUSGrxtx7kGi5B+ZNziPiAFHT/oF1XYOvccU0=",
+      "Fingerprint": "lm8j0o7czi",
+      "Integrity": "bYKMrGCIhooBYeK/AlO+kewkwmlrCriFJiP2uf33Zqs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imgs\\brands\\ty01vcug.ssr.png"
+    },
+    {
+      "Identity": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\imgs\\brands\\zrbkdvlo.kok.png",
+      "SourceId": "Techan",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\",
+      "BasePath": "_content/Techan",
+      "RelativePath": "imgs/brands/zrbkdvlo.kok#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lm8j0o7czi",
+      "Integrity": "bYKMrGCIhooBYeK/AlO+kewkwmlrCriFJiP2uf33Zqs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imgs\\brands\\zrbkdvlo.kok.png"
     }
   ],
   "Endpoints": [
@@ -31970,7 +31991,7 @@
       ]
     },
     {
-      "Route": "imgs/brands/ty01vcug.ssr.2hl3hf0qf5.png",
+      "Route": "imgs/brands/ty01vcug.ssr.lm8j0o7czi.png",
       "AssetFile": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\imgs\\brands\\ty01vcug.ssr.png",
       "Selectors": [],
       "ResponseHeaders": [
@@ -31980,7 +32001,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12413"
+          "Value": "90143"
         },
         {
           "Name": "Content-Type",
@@ -31988,11 +32009,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"iqMEFhSUSGrxtx7kGi5B+ZNziPiAFHT/oF1XYOvccU0=\""
+          "Value": "\"bYKMrGCIhooBYeK/AlO+kewkwmlrCriFJiP2uf33Zqs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 18:32:52 GMT"
+          "Value": "Wed, 07 May 2025 18:50:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32002,7 +32023,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2hl3hf0qf5"
+          "Value": "lm8j0o7czi"
         },
         {
           "Name": "label",
@@ -32010,7 +32031,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-iqMEFhSUSGrxtx7kGi5B+ZNziPiAFHT/oF1XYOvccU0="
+          "Value": "sha256-bYKMrGCIhooBYeK/AlO+kewkwmlrCriFJiP2uf33Zqs="
         }
       ]
     },
@@ -32025,7 +32046,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12413"
+          "Value": "90143"
         },
         {
           "Name": "Content-Type",
@@ -32033,11 +32054,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"iqMEFhSUSGrxtx7kGi5B+ZNziPiAFHT/oF1XYOvccU0=\""
+          "Value": "\"bYKMrGCIhooBYeK/AlO+kewkwmlrCriFJiP2uf33Zqs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 18:32:52 GMT"
+          "Value": "Wed, 07 May 2025 18:50:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32047,7 +32068,89 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-iqMEFhSUSGrxtx7kGi5B+ZNziPiAFHT/oF1XYOvccU0="
+          "Value": "sha256-bYKMrGCIhooBYeK/AlO+kewkwmlrCriFJiP2uf33Zqs="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/brands/zrbkdvlo.kok.lm8j0o7czi.png",
+      "AssetFile": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\imgs\\brands\\zrbkdvlo.kok.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90143"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bYKMrGCIhooBYeK/AlO+kewkwmlrCriFJiP2uf33Zqs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 18:58:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lm8j0o7czi"
+        },
+        {
+          "Name": "label",
+          "Value": "imgs/brands/zrbkdvlo.kok.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bYKMrGCIhooBYeK/AlO+kewkwmlrCriFJiP2uf33Zqs="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/brands/zrbkdvlo.kok.png",
+      "AssetFile": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\imgs\\brands\\zrbkdvlo.kok.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90143"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bYKMrGCIhooBYeK/AlO+kewkwmlrCriFJiP2uf33Zqs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 18:58:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bYKMrGCIhooBYeK/AlO+kewkwmlrCriFJiP2uf33Zqs="
         }
       ]
     }

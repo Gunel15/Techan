@@ -1,11 +1,11 @@
-﻿@model List<BrandGetVM>
+﻿@model List<CategoryGetVM>
 @{
     int order = 1;
 }
 
 <section class="content-main">
     <div class="content-header">
-        <h2 class="content-title">Brand list </h2>
+        <h2 class="content-title">Category List </h2>
         <a asp-action="Create" class="btn btn-primary">Create</a>
     </div>
     <div class="card mb-4">
@@ -15,7 +15,6 @@
                     <thead>
                         <tr>
                             <th>#ID</th>
-                            <th scope="col">Image</th>
                             <th scope="col">Name</th>
                             <th colspan="2" class="text-end"> Action </th>
                         </tr>
@@ -25,14 +24,11 @@
                         {
                             <tr>
                                 <td>@(order++)</td>
-                                <td>
-                                    <img src="~/imgs/brands/@item.ImageUrl" width="120" />
-                                </td>
                                 <td>@item.Name</td>
                                 <td>
                                     <a asp-action="Update" class="btn btn-primary" asp-route-id="@item.Id">Update</a>
-                                    </td>
-                                    <td>
+                                </td>
+                                <td>
                                     <a asp-action="Delete" class="btn btn-secondary" asp-route-id="@item.Id">Delete</a>
                                 </td>
                             </tr>
@@ -43,4 +39,6 @@
         </div>
     </div>
 </section>
+
+
 

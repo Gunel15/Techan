@@ -5592,11 +5592,29 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>2hl3hf0qf5</Fingerprint>
-      <Integrity>iqMEFhSUSGrxtx7kGi5B+ZNziPiAFHT/oF1XYOvccU0=</Integrity>
+      <Fingerprint>lm8j0o7czi</Fingerprint>
+      <Integrity>bYKMrGCIhooBYeK/AlO+kewkwmlrCriFJiP2uf33Zqs=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\brands\ty01vcug.ssr.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\brands\zrbkdvlo.kok.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Techan</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Techan</BasePath>
+      <RelativePath>imgs/brands/zrbkdvlo.kok.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>lm8j0o7czi</Fingerprint>
+      <Integrity>bYKMrGCIhooBYeK/AlO+kewkwmlrCriFJiP2uf33Zqs=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\brands\zrbkdvlo.kok.png'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>

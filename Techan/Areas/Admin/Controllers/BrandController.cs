@@ -40,7 +40,7 @@ namespace Techan.Areas.Admin.Controllers
                 if (vm.ImageFile.Length / 1024 > 200)
                     ModelState.AddModelError("ImageFile", "Shekilin olcusu 200 Kb-dan cox olmamalidir!");
             }
-            j
+            
 
             string newImgName = Path.GetRandomFileName()+ Path.GetExtension(vm.ImageFile!.FileName);
             string path = Path.Combine("wwwroot", "imgs", "brands", newImgName);
@@ -70,8 +70,11 @@ namespace Techan.Areas.Admin.Controllers
         }
 
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public async Task<IActionResult> Update(int? id,BrandUpdateVM vm)
         {
+            if (!id.HasValue || id.Value < 1)
+                return BadRequest();
             if (vm.ImageFile != null)
             {
                 if (!vm.ImageFile.ContentType.StartsWith("image"))
@@ -81,20 +84,33 @@ namespace Techan.Areas.Admin.Controllers
                 }
                 if (vm.ImageFile.Length / 1024 > 200)
                     ModelState.AddModelError("ImageFile", "Shekilin olcusu 200 Kb-dan cox olmamalidir!");
-               
-                string path = Path.Combine("wwwroot", "imgs", "brands", vm.ImageUrl!);
-                await using (FileStream fs = new FileStream(path, FileMode.Create))
+            }
+                if (!ModelState.IsValid)
+                    return View(vm);
+                var brand = await _context.Brands.FindAsync(id);
+                if (brand is null)
+                    return NotFound();
+                if (vm.ImageFile != null)
                 {
-                    await vm.ImageFile.CopyToAsync(fs);
+                    string path = Path.Combine("wwwroot", "imgs", "brands", brand.ImageUrl!);
+                    await using (FileStream fs = new FileStream(path, FileMode.Create))
+                    {
+                        await vm.ImageFile.CopyToAsync(fs);
+                    }
                 }
-                await _context.Brands.AddAsync(new Brand
-                {
-                    Name = vm.Name,
-                    ImageUrl = newImgName
-                });
+                brand.Name = vm.Name;
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
-            }
+        }
+
+        public async Task<IActionResult> Delete(int? id)
+        {
+            if (!id.HasValue || id.Value < 1)
+                return BadRequest();
+            int result=await _context.Brands.Where(x=>x.Id==id).ExecuteDeleteAsync();
+            if (result == 0)
+                return NotFound();
+            return RedirectToAction(nameof(Index));
         }
     }
 }

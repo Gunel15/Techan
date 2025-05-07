@@ -1245,6 +1245,10 @@
       "PackagePath": "staticwebassets\\imgs\\brands\\ty01vcug.ssr.png"
     },
     {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\imgs\\brands\\zrbkdvlo.kok.png",
+      "PackagePath": "staticwebassets\\imgs\\brands\\zrbkdvlo.kok.png"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Techan.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
