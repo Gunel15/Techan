@@ -308,5 +308,12 @@ wwwroot\assets\js\vendor\jquery-3.6.0.min.js
 wwwroot\assets\js\vendor\jquery-migrate-3.3.0.min.js
 wwwroot\assets\js\vendor\modernizr-3.6.0.min.js
 wwwroot\favicon.ico
+wwwroot\imgs\brands\1jazpi3u.lyw.png
+wwwroot\imgs\brands\kqcvx2l2.5a3.jpg
 wwwroot\imgs\brands\ty01vcug.ssr.png
+wwwroot\imgs\brands\yqk0vfti.hrv.png
 wwwroot\imgs\brands\zrbkdvlo.kok.png
+wwwroot\imgs\sliders\f3bfpu3i.sls.png
+wwwroot\imgs\sliders\gu5rgqvq.tdb.png
+wwwroot\imgs\sliders\obvs41cb.jty.png
+wwwroot\imgs\sliders\pgxj2foy.110.jpg

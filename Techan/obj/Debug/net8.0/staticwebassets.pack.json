@@ -1241,12 +1241,40 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\imgs\\brands\\1jazpi3u.lyw.png",
+      "PackagePath": "staticwebassets\\imgs\\brands\\1jazpi3u.lyw.png"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\imgs\\brands\\kqcvx2l2.5a3.jpg",
+      "PackagePath": "staticwebassets\\imgs\\brands\\kqcvx2l2.5a3.jpg"
+    },
+    {
       "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\imgs\\brands\\ty01vcug.ssr.png",
       "PackagePath": "staticwebassets\\imgs\\brands\\ty01vcug.ssr.png"
     },
     {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\imgs\\brands\\yqk0vfti.hrv.png",
+      "PackagePath": "staticwebassets\\imgs\\brands\\yqk0vfti.hrv.png"
+    },
+    {
       "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\imgs\\brands\\zrbkdvlo.kok.png",
       "PackagePath": "staticwebassets\\imgs\\brands\\zrbkdvlo.kok.png"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\imgs\\sliders\\f3bfpu3i.sls.png",
+      "PackagePath": "staticwebassets\\imgs\\sliders\\f3bfpu3i.sls.png"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\imgs\\sliders\\gu5rgqvq.tdb.png",
+      "PackagePath": "staticwebassets\\imgs\\sliders\\gu5rgqvq.tdb.png"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\imgs\\sliders\\obvs41cb.jty.png",
+      "PackagePath": "staticwebassets\\imgs\\sliders\\obvs41cb.jty.png"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\imgs\\sliders\\pgxj2foy.110.jpg",
+      "PackagePath": "staticwebassets\\imgs\\sliders\\pgxj2foy.110.jpg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Techan.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

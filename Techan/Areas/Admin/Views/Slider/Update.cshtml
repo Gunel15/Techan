@@ -8,12 +8,18 @@
 	</div>
 	<div class="card mb-4">
 		<form method="post" class="card-body">
-			<div class="mb-4">
-				<img src="@Model.ImageUrl" width="60" />
-				<label asp-for="ImageUrl" class="form-label"></label>
-				<input asp-for="ImageUrl" class="form-control">
-				<span class="text-sm text-danger" asp-validation-for="ImageUrl"></span>
+			<div class="mb-4 input-upload">
+				<img src="~/imgs/sliders/@Model.ImageUrl" alt="">
+				</>
+				<input asp-for="ImageFile" class="form-control">
+				<span class="text-sm text-danger" asp-validation-for="ImageFile"></span>
 			</div>
+			@* <div class="mb-4"> *@
+			@* 	<img src="@Model.ImageUrl" width="60" /> *@
+			@* 	<label asp-for="ImageUrl" class="form-label"></label> *@
+			@* 	<input asp-for="ImageUrl" class="form-control"> *@
+			@* 	<span class="text-sm text-danger" asp-validation-for="ImageUrl"></span> *@
+			@* </div> *@
 			<div class="row gx-3">
 				<div class="col-md-4  mb-3">
 					<label asp-for="LittleTitle" form-label"></label>

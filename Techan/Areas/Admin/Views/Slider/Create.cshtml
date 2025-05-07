@@ -1,18 +1,25 @@
 ﻿@model SliderCreateVM
 <section class="content-main">
 	<div class="content-header">
-		<h2 class="content-title">Add New Product</h2>
+		<h2 class="content-title">Add New Slider</h2>
 		<div>
 			<a asp-action="Index" class="btn btn-md rounded font-sm hover-up">Go to list</a>
 		</div>
 	</div>
 	<div class="card mb-4">
-		<form method="post" class="card-body">
-			<div class="mb-4">
-				<label asp-for="ImageUrl" class="form-label"></label>
-				<input asp-for="ImageUrl" class="form-control">
-				<span class="text-sm text-danger" asp-validation-for="ImageUrl"></span>
+		<form method="post" enctype="multipart/form-data" class="card-body">
+			<div class="mb-4 input-upload">
+				<label asp-for="ImageFile" class="form-label">
+					<img src="~/admin/assets/imgs/theme/upload.svg" alt="">
+				</label>
+				<input asp-for="ImageFile" class="form-control">
+				<span class="text-sm text-danger" asp-validation-for="ImageFile"></span>
 			</div>
+			@* <div class="mb-4"> *@
+			@* 	<label asp-for="ImageUrl" class="form-label"></label> *@
+			@* 	<input asp-for="ImageUrl" class="form-control"> *@
+			@* 	<span class="text-sm text-danger" asp-validation-for="ImageUrl"></span> *@
+			@* </div> *@
 			<div class="row gx-3">
 				<div class="col-md-4  mb-3">
 					<label asp-for="LittleTitle" form-label"></label>
@@ -41,6 +48,7 @@
 					<span class="text-sm text-danger" asp-validation-for="Link"></span>
 				</div>
 			</div>
+			
 			<button type="submit" class="btn btn-primary">Create</button>
 		</form>
 	</div>
