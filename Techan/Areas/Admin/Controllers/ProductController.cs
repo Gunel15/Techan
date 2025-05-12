@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Techan.DataAccessLayer;
 using Techan.Extension;
@@ -9,6 +10,7 @@ using Techan.ViewModels.Products;
 namespace Techan.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize]
     public class ProductController(TechanDbContext _context) : Controller
     {
         public async Task<IActionResult> Index()
@@ -133,6 +135,18 @@ namespace Techan.Areas.Admin.Controllers
             await _context.SaveChangesAsync();
             TempData["IsDeleted"] = true;
             return RedirectToAction(nameof(Index));
+        }
+
+        public async Task<IActionResult> Update(int? id)
+        {
+            if (!id.HasValue || id.Value < 1)
+                return BadRequest();
+            var brand = await _context.Products.Where(x => x.Id == id).Select(x => new ProductUpdateVM
+            {
+                Name = x.Name,
+                ImageUrl = x.ImageUrl
+            }).FirstOrDefaultAsync();
+            return View(brand);
         }
     }
 }

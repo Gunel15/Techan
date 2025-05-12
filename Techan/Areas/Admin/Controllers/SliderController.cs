@@ -1,4 +1,5 @@
 ﻿using System.Drawing.Drawing2D;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Techan.DataAccessLayer;
@@ -9,6 +10,7 @@ using Techan.ViewModels.Sliders;
 namespace Techan.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize]
     public class SliderController(TechanDbContext _context) : Controller
     {
         List<Slider> datas = [];

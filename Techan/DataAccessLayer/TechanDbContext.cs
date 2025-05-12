@@ -1,8 +1,11 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.VisualStudio.Web.CodeGenerators.Mvc.Templates.General;
 using Techan.Models;
 namespace Techan.DataAccessLayer;
 
-    public class TechanDbContext:DbContext
+    public class TechanDbContext:IdentityDbContext<User,IdentityRole<Guid>,Guid>
     {
     public TechanDbContext(DbContextOptions opt):base(opt)
     {

@@ -1,4 +1,5 @@
 ﻿using System.IO;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Techan.DataAccessLayer;
@@ -7,7 +8,8 @@ using Techan.ViewModels.Brands;
 
 namespace Techan.Areas.Admin.Controllers
 {
-        [Area("Admin")]
+    [Area("Admin")]
+    [Authorize]
     public class BrandController(TechanDbContext _context) : Controller
     {
         public async Task<IActionResult> Index()
@@ -34,17 +36,17 @@ namespace Techan.Areas.Admin.Controllers
             {
                 if (!vm.ImageFile.ContentType.StartsWith("image"))
                 {
-                    string ext=Path.GetExtension(vm.ImageFile.FileName);
+                    string ext = Path.GetExtension(vm.ImageFile.FileName);
                     ModelState.AddModelError("ImageFile", "Fayl shekil formatinda olmalidir," + ext + "olmaz!");
                 }
                 if (vm.ImageFile.Length / 1024 > 200)
                     ModelState.AddModelError("ImageFile", "Shekilin olcusu 200 Kb-dan cox olmamalidir!");
             }
-            
 
-            string newImgName = Path.GetRandomFileName()+ Path.GetExtension(vm.ImageFile!.FileName);
+
+            string newImgName = Path.GetRandomFileName() + Path.GetExtension(vm.ImageFile!.FileName);
             string path = Path.Combine("wwwroot", "imgs", "brands", newImgName);
-                await using(FileStream fs=new FileStream(path,FileMode.Create))
+            await using (FileStream fs = new FileStream(path, FileMode.Create))
             {
                 await vm.ImageFile.CopyToAsync(fs);
             }
@@ -71,7 +73,7 @@ namespace Techan.Areas.Admin.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Update(int? id,BrandUpdateVM vm)
+        public async Task<IActionResult> Update(int? id, BrandUpdateVM vm)
         {
             if (!id.HasValue || id.Value < 1)
                 return BadRequest();
@@ -85,29 +87,29 @@ namespace Techan.Areas.Admin.Controllers
                 if (vm.ImageFile.Length / 1024 > 200)
                     ModelState.AddModelError("ImageFile", "Shekilin olcusu 200 Kb-dan cox olmamalidir!");
             }
-                if (!ModelState.IsValid)
-                    return View(vm);
-                var brand = await _context.Brands.FindAsync(id);
-                if (brand is null)
-                    return NotFound();
-                if (vm.ImageFile != null)
+            if (!ModelState.IsValid)
+                return View(vm);
+            var brand = await _context.Brands.FindAsync(id);
+            if (brand is null)
+                return NotFound();
+            if (vm.ImageFile != null)
+            {
+                string path = Path.Combine("wwwroot", "imgs", "brands", brand.ImageUrl!);
+                await using (FileStream fs = new FileStream(path, FileMode.Create))
                 {
-                    string path = Path.Combine("wwwroot", "imgs", "brands", brand.ImageUrl!);
-                    await using (FileStream fs = new FileStream(path, FileMode.Create))
-                    {
-                        await vm.ImageFile.CopyToAsync(fs);
-                    }
+                    await vm.ImageFile.CopyToAsync(fs);
                 }
-                brand.Name = vm.Name;
-                await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+            }
+            brand.Name = vm.Name;
+            await _context.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));
         }
 
         public async Task<IActionResult> Delete(int? id)
         {
             if (!id.HasValue || id.Value < 1)
                 return BadRequest();
-            int result=await _context.Brands.Where(x=>x.Id==id).ExecuteDeleteAsync();
+            int result = await _context.Brands.Where(x => x.Id == id).ExecuteDeleteAsync();
             if (result == 0)
                 return NotFound();
             return RedirectToAction(nameof(Index));

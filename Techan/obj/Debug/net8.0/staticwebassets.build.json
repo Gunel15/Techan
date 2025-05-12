@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "69CtcRQS5VM25Q+L86yRnWgirTUMj9l4cA/szBp7OyU=",
+  "Hash": "pWoSgDePzZlxxYEdJP09Z5+U04ucO7RnUBQJQqYXnws=",
   "Source": "Techan",
   "BasePath": "_content/Techan",
   "Mode": "Default",
@@ -6548,6 +6548,27 @@
       "OriginalItemSpec": "wwwroot\\imgs\\brands\\1jazpi3u.lyw.png"
     },
     {
+      "Identity": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\imgs\\brands\\4wfkfybm.xta.png",
+      "SourceId": "Techan",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\",
+      "BasePath": "_content/Techan",
+      "RelativePath": "imgs/brands/4wfkfybm.xta#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lm8j0o7czi",
+      "Integrity": "bYKMrGCIhooBYeK/AlO+kewkwmlrCriFJiP2uf33Zqs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imgs\\brands\\4wfkfybm.xta.png"
+    },
+    {
       "Identity": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\imgs\\brands\\kqcvx2l2.5a3.jpg",
       "SourceId": "Techan",
       "SourceType": "Discovered",
@@ -6567,6 +6588,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imgs\\brands\\kqcvx2l2.5a3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\imgs\\brands\\lcrykhi2.gti.jpg",
+      "SourceId": "Techan",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\",
+      "BasePath": "_content/Techan",
+      "RelativePath": "imgs/brands/lcrykhi2.gti#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lm8j0o7czi",
+      "Integrity": "bYKMrGCIhooBYeK/AlO+kewkwmlrCriFJiP2uf33Zqs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imgs\\brands\\lcrykhi2.gti.jpg"
     },
     {
       "Identity": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\imgs\\brands\\ty01vcug.ssr.png",
@@ -6653,6 +6695,48 @@
       "OriginalItemSpec": "wwwroot\\imgs\\products\\qg2svnsy.fno.jpeg"
     },
     {
+      "Identity": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\imgs\\products\\qxpjpwnk.bhs.jpg",
+      "SourceId": "Techan",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\",
+      "BasePath": "_content/Techan",
+      "RelativePath": "imgs/products/qxpjpwnk.bhs#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pjbni5l8mx",
+      "Integrity": "y48Ek+TiHIWynuyMxlnZhRW9a1022sgPfr0//U6u+e4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imgs\\products\\qxpjpwnk.bhs.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\imgs\\products\\p0yuwins.aad.jpg",
+      "SourceId": "Techan",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\",
+      "BasePath": "_content/Techan",
+      "RelativePath": "imgs/products/p0yuwins.aad#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sehixqinb0",
+      "Integrity": "pHGB0KVjI+wN0y8jTaFfe0wgA82jBgHwtlsq/ip4bEc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imgs\\products\\p0yuwins.aad.jpg"
+    },
+    {
       "Identity": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\imgs\\products\\sewuarfg.ubr.jpg",
       "SourceId": "Techan",
       "SourceType": "Discovered",
@@ -6693,6 +6777,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imgs\\products\\vgxcmfcg.e31.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\imgs\\sliders\\0j2pih0c.phd.jpg",
+      "SourceId": "Techan",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\",
+      "BasePath": "_content/Techan",
+      "RelativePath": "imgs/sliders/0j2pih0c.phd#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sehixqinb0",
+      "Integrity": "pHGB0KVjI+wN0y8jTaFfe0wgA82jBgHwtlsq/ip4bEc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imgs\\sliders\\0j2pih0c.phd.jpg"
     },
     {
       "Identity": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\imgs\\sliders\\f3bfpu3i.sls.png",
@@ -6777,6 +6882,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imgs\\sliders\\pgxj2foy.110.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\imgs\\sliders\\ylgzx1wm.32u.jpeg",
+      "SourceId": "Techan",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\",
+      "BasePath": "_content/Techan",
+      "RelativePath": "imgs/sliders/ylgzx1wm.32u#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6s1jcv7s50",
+      "Integrity": "xmeomgx1hhxz+3UrP3/tCzqPDL4gtwAnmXjG+ynzQn4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imgs\\sliders\\ylgzx1wm.32u.jpeg"
     }
   ],
   "Endpoints": [
@@ -32223,7 +32349,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 17:18:38 GMT"
+          "Value": "Sun, 11 May 2025 17:24:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32268,7 +32394,89 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 17:18:38 GMT"
+          "Value": "Sun, 11 May 2025 17:24:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bYKMrGCIhooBYeK/AlO+kewkwmlrCriFJiP2uf33Zqs="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/brands/4wfkfybm.xta.lm8j0o7czi.png",
+      "AssetFile": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\imgs\\brands\\4wfkfybm.xta.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90143"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bYKMrGCIhooBYeK/AlO+kewkwmlrCriFJiP2uf33Zqs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 17:25:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lm8j0o7czi"
+        },
+        {
+          "Name": "label",
+          "Value": "imgs/brands/4wfkfybm.xta.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bYKMrGCIhooBYeK/AlO+kewkwmlrCriFJiP2uf33Zqs="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/brands/4wfkfybm.xta.png",
+      "AssetFile": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\imgs\\brands\\4wfkfybm.xta.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90143"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bYKMrGCIhooBYeK/AlO+kewkwmlrCriFJiP2uf33Zqs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 17:25:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32305,7 +32513,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 17:18:24 GMT"
+          "Value": "Sun, 11 May 2025 17:23:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32350,7 +32558,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 17:18:24 GMT"
+          "Value": "Sun, 11 May 2025 17:23:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32361,6 +32569,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-iqMEFhSUSGrxtx7kGi5B+ZNziPiAFHT/oF1XYOvccU0="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/brands/lcrykhi2.gti.jpg",
+      "AssetFile": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\imgs\\brands\\lcrykhi2.gti.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90143"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bYKMrGCIhooBYeK/AlO+kewkwmlrCriFJiP2uf33Zqs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 17:25:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bYKMrGCIhooBYeK/AlO+kewkwmlrCriFJiP2uf33Zqs="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/brands/lcrykhi2.gti.lm8j0o7czi.jpg",
+      "AssetFile": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\imgs\\brands\\lcrykhi2.gti.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90143"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bYKMrGCIhooBYeK/AlO+kewkwmlrCriFJiP2uf33Zqs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 17:25:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lm8j0o7czi"
+        },
+        {
+          "Name": "label",
+          "Value": "imgs/brands/lcrykhi2.gti.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bYKMrGCIhooBYeK/AlO+kewkwmlrCriFJiP2uf33Zqs="
         }
       ]
     },
@@ -32693,6 +32983,170 @@
       ]
     },
     {
+      "Route": "imgs/products/qxpjpwnk.bhs.jpg",
+      "AssetFile": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\imgs\\products\\qxpjpwnk.bhs.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25717"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y48Ek+TiHIWynuyMxlnZhRW9a1022sgPfr0//U6u+e4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 17:29:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-y48Ek+TiHIWynuyMxlnZhRW9a1022sgPfr0//U6u+e4="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/products/qxpjpwnk.bhs.pjbni5l8mx.jpg",
+      "AssetFile": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\imgs\\products\\qxpjpwnk.bhs.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25717"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y48Ek+TiHIWynuyMxlnZhRW9a1022sgPfr0//U6u+e4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 17:29:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pjbni5l8mx"
+        },
+        {
+          "Name": "label",
+          "Value": "imgs/products/qxpjpwnk.bhs.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-y48Ek+TiHIWynuyMxlnZhRW9a1022sgPfr0//U6u+e4="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/products/p0yuwins.aad.jpg",
+      "AssetFile": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\imgs\\products\\p0yuwins.aad.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23202"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pHGB0KVjI+wN0y8jTaFfe0wgA82jBgHwtlsq/ip4bEc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 17:29:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pHGB0KVjI+wN0y8jTaFfe0wgA82jBgHwtlsq/ip4bEc="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/products/p0yuwins.aad.sehixqinb0.jpg",
+      "AssetFile": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\imgs\\products\\p0yuwins.aad.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23202"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pHGB0KVjI+wN0y8jTaFfe0wgA82jBgHwtlsq/ip4bEc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 17:29:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sehixqinb0"
+        },
+        {
+          "Name": "label",
+          "Value": "imgs/products/p0yuwins.aad.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pHGB0KVjI+wN0y8jTaFfe0wgA82jBgHwtlsq/ip4bEc="
+        }
+      ]
+    },
+    {
       "Route": "imgs/products/sewuarfg.ubr.jpg",
       "AssetFile": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\imgs\\products\\sewuarfg.ubr.jpg",
       "Selectors": [],
@@ -32849,6 +33303,88 @@
         {
           "Name": "label",
           "Value": "imgs/products/vgxcmfcg.e31.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pHGB0KVjI+wN0y8jTaFfe0wgA82jBgHwtlsq/ip4bEc="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/sliders/0j2pih0c.phd.jpg",
+      "AssetFile": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\imgs\\sliders\\0j2pih0c.phd.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23202"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pHGB0KVjI+wN0y8jTaFfe0wgA82jBgHwtlsq/ip4bEc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 17:26:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pHGB0KVjI+wN0y8jTaFfe0wgA82jBgHwtlsq/ip4bEc="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/sliders/0j2pih0c.phd.sehixqinb0.jpg",
+      "AssetFile": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\imgs\\sliders\\0j2pih0c.phd.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23202"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pHGB0KVjI+wN0y8jTaFfe0wgA82jBgHwtlsq/ip4bEc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 17:26:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sehixqinb0"
+        },
+        {
+          "Name": "label",
+          "Value": "imgs/sliders/0j2pih0c.phd.jpg"
         },
         {
           "Name": "integrity",
@@ -33181,6 +33717,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-bYKMrGCIhooBYeK/AlO+kewkwmlrCriFJiP2uf33Zqs="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/sliders/ylgzx1wm.32u.6s1jcv7s50.jpeg",
+      "AssetFile": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\imgs\\sliders\\ylgzx1wm.32u.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3326"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xmeomgx1hhxz+3UrP3/tCzqPDL4gtwAnmXjG+ynzQn4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 17:27:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6s1jcv7s50"
+        },
+        {
+          "Name": "label",
+          "Value": "imgs/sliders/ylgzx1wm.32u.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xmeomgx1hhxz+3UrP3/tCzqPDL4gtwAnmXjG+ynzQn4="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/sliders/ylgzx1wm.32u.jpeg",
+      "AssetFile": "C:\\Users\\V&V\\source\\repos\\Techan\\Techan\\wwwroot\\imgs\\sliders\\ylgzx1wm.32u.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3326"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xmeomgx1hhxz+3UrP3/tCzqPDL4gtwAnmXjG+ynzQn4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 17:27:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xmeomgx1hhxz+3UrP3/tCzqPDL4gtwAnmXjG+ynzQn4="
         }
       ]
     }

@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Techan.DataAccessLayer;
 using Techan.Models;
@@ -7,6 +8,7 @@ using Techan.ViewModels.Categories;
 namespace Techan.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize]
     public class CategoryController(TechanDbContext _context) : Controller
     {
         public async Task<IActionResult> Index()

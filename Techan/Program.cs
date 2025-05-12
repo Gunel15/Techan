@@ -1,5 +1,7 @@
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Techan.DataAccessLayer;
+using Techan.Models;
 
 namespace Techan
 {
@@ -14,7 +16,17 @@ namespace Techan
             {
                 opt.UseSqlServer(builder.Configuration.GetConnectionString("MSSQL"));
             });
-
+            builder.Services.AddIdentity<User,IdentityRole<Guid>>(x =>
+            {
+                x.User.AllowedUserNameCharacters = "abcdefghijklmnopqrstuvwxyz0123456789_";
+                x.Password.RequireUppercase = false;
+                x.Password.RequireNonAlphanumeric = false;
+                x.Password.RequiredLength = 6;
+                x.User.RequireUniqueEmail=true;
+                x.SignIn.RequireConfirmedEmail = true;
+                x.Lockout.MaxFailedAccessAttempts = 5;
+                x.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(5);
+            }).AddEntityFrameworkStores<TechanDbContext>().AddDefaultTokenProviders();
             builder.Services.AddControllersWithViews();
 
             var app = builder.Build();
@@ -33,6 +45,11 @@ namespace Techan
             app.UseRouting();
 
             app.UseAuthorization();
+            app.MapControllerRoute(name: "register", "/Register", new
+            {
+                Controller = "Account",
+                Action = "Register"
+            });
             app.MapControllerRoute(
             name: "areas",
             pattern: "{area:exists}/{controller=Dashboard}/{action=Index}/{id?}");
