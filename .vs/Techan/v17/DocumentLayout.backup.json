@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\V\u0026V\\source\\repos\\Techan\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D8BB8153-8770-4EAD-9173-A2725AD8FB46}|Techan\\Techan.csproj|c:\\users\\v\u0026v\\source\\repos\\techan\\techan\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8BB8153-8770-4EAD-9173-A2725AD8FB46}|Techan\\Techan.csproj|solutionrelative:techan\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D8BB8153-8770-4EAD-9173-A2725AD8FB46}|Techan\\Techan.csproj|c:\\users\\v\u0026v\\source\\repos\\techan\\techan\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8BB8153-8770-4EAD-9173-A2725AD8FB46}|Techan\\Techan.csproj|solutionrelative:techan\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D8BB8153-8770-4EAD-9173-A2725AD8FB46}|Techan\\Techan.csproj|c:\\users\\v\u0026v\\source\\repos\\techan\\techan\\areas\\admin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8BB8153-8770-4EAD-9173-A2725AD8FB46}|Techan\\Techan.csproj|solutionrelative:techan\\areas\\admin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8BB8153-8770-4EAD-9173-A2725AD8FB46}|Techan\\Techan.csproj|c:\\users\\v\u0026v\\source\\repos\\techan\\techan\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8BB8153-8770-4EAD-9173-A2725AD8FB46}|Techan\\Techan.csproj|solutionrelative:techan\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D8BB8153-8770-4EAD-9173-A2725AD8FB46}|Techan\\Techan.csproj|c:\\users\\v\u0026v\\source\\repos\\techan\\techan\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -270,16 +270,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\V\u0026V\\source\\repos\\Techan\\Techan\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Techan\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\V\u0026V\\source\\repos\\Techan\\Techan\\Controllers\\AccountController.cs*",
-              "RelativeToolTip": "Techan\\Controllers\\AccountController.cs*",
+              "ToolTip": "C:\\Users\\V\u0026V\\source\\repos\\Techan\\Techan\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Techan\\Controllers\\AccountController.cs",
               "ViewState": "AgIAAEEAAAAAAAAAAAAowFIAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T18:18:18.171Z",
@@ -287,68 +287,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "BrandController.cs",
               "DocumentMoniker": "C:\\Users\\V\u0026V\\source\\repos\\Techan\\Techan\\Areas\\Admin\\Controllers\\BrandController.cs",
               "RelativeDocumentMoniker": "Techan\\Areas\\Admin\\Controllers\\BrandController.cs",
-              "ToolTip": "C:\\Users\\V\u0026V\\source\\repos\\Techan\\Techan\\Areas\\Admin\\Controllers\\BrandController.cs*",
-              "RelativeToolTip": "Techan\\Areas\\Admin\\Controllers\\BrandController.cs*",
+              "ToolTip": "C:\\Users\\V\u0026V\\source\\repos\\Techan\\Techan\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "Techan\\Areas\\Admin\\Controllers\\BrandController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAtwAsAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T18:40:15.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T18:40:15.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\source\\repos\\Techan\\Techan\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Techan\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\V\u0026V\\source\\repos\\Techan\\Techan\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Techan\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:34:25.804Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\V\u0026V\\source\\repos\\Techan\\Techan\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "Techan\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\V\u0026V\\source\\repos\\Techan\\Techan\\Areas\\Admin\\Controllers\\CategoryController.cs*",
-              "RelativeToolTip": "Techan\\Areas\\Admin\\Controllers\\CategoryController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\source\\repos\\Techan\\Techan\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Techan\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\V\u0026V\\source\\repos\\Techan\\Techan\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Techan\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T16:34:25.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T19:26:30.956Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\V\u0026V\\source\\repos\\Techan\\Techan\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "Techan\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\V\u0026V\\source\\repos\\Techan\\Techan\\Areas\\Admin\\Controllers\\DashboardController.cs*",
-              "RelativeToolTip": "Techan\\Areas\\Admin\\Controllers\\DashboardController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\source\\repos\\Techan\\Techan\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Techan\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\V\u0026V\\source\\repos\\Techan\\Techan\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Techan\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T19:26:30.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T11:02:35.961Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\V\u0026V\\source\\repos\\Techan\\Techan\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Techan\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\V\u0026V\\source\\repos\\Techan\\Techan\\Areas\\Admin\\Controllers\\ProductController.cs*",
-              "RelativeToolTip": "Techan\\Areas\\Admin\\Controllers\\ProductController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T11:02:35.961Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "SliderController.cs",
               "DocumentMoniker": "C:\\Users\\V\u0026V\\source\\repos\\Techan\\Techan\\Areas\\Admin\\Controllers\\SliderController.cs",
               "RelativeDocumentMoniker": "Techan\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "ToolTip": "C:\\Users\\V\u0026V\\source\\repos\\Techan\\Techan\\Areas\\Admin\\Controllers\\SliderController.cs*",
-              "RelativeToolTip": "Techan\\Areas\\Admin\\Controllers\\SliderController.cs*",
+              "ToolTip": "C:\\Users\\V\u0026V\\source\\repos\\Techan\\Techan\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "Techan\\Areas\\Admin\\Controllers\\SliderController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T09:26:21.765Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-04T09:26:21.765Z"
             },
             {
               "$type": "Document",
@@ -356,12 +351,11 @@
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\V\u0026V\\source\\repos\\Techan\\Techan\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Techan\\Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\V\u0026V\\source\\repos\\Techan\\Techan\\Views\\Account\\Login.cshtml*",
-              "RelativeToolTip": "Techan\\Views\\Account\\Login.cshtml*",
+              "ToolTip": "C:\\Users\\V\u0026V\\source\\repos\\Techan\\Techan\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Techan\\Views\\Account\\Login.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAmwBgAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-12T20:20:22.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T20:20:22.015Z"
             },
             {
               "$type": "Document",
@@ -369,12 +363,11 @@
               "Title": "LoginVM.cs",
               "DocumentMoniker": "C:\\Users\\V\u0026V\\source\\repos\\Techan\\Techan\\ViewModels\\Account\\LoginVM.cs",
               "RelativeDocumentMoniker": "Techan\\ViewModels\\Account\\LoginVM.cs",
-              "ToolTip": "C:\\Users\\V\u0026V\\source\\repos\\Techan\\Techan\\ViewModels\\Account\\LoginVM.cs*",
-              "RelativeToolTip": "Techan\\ViewModels\\Account\\LoginVM.cs*",
+              "ToolTip": "C:\\Users\\V\u0026V\\source\\repos\\Techan\\Techan\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeToolTip": "Techan\\ViewModels\\Account\\LoginVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T20:25:52.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T20:25:52.241Z"
             },
             {
               "$type": "Document",
@@ -386,8 +379,7 @@
               "RelativeToolTip": "Techan\\Views\\Account\\Register.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAAmwCcAAABtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-12T18:23:44.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T18:23:44.501Z"
             },
             {
               "$type": "Document",
@@ -399,8 +391,7 @@
               "RelativeToolTip": "Techan\\ViewModels\\Account\\RegisterVM.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAqwBAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T18:42:54.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T18:42:54.73Z"
             },
             {
               "$type": "Document",
@@ -412,8 +403,7 @@
               "RelativeToolTip": "Techan\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T16:52:16.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T16:52:16.345Z"
             },
             {
               "$type": "Document",
@@ -425,8 +415,7 @@
               "RelativeToolTip": "Techan\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-12T18:39:55.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T18:39:55.559Z"
             },
             {
               "$type": "Document",
@@ -438,8 +427,7 @@
               "RelativeToolTip": "Techan\\ViewModels\\Products\\ProductCreateVM.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAiwAoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T11:48:08.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T11:48:08.981Z"
             },
             {
               "$type": "Document",
@@ -451,8 +439,7 @@
               "RelativeToolTip": "Techan\\Program.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAowDMAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T19:24:15.938Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T19:24:15.938Z"
             },
             {
               "$type": "Document",
@@ -464,8 +451,7 @@
               "RelativeToolTip": "Techan\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-04T12:06:19.478Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-04T12:06:19.478Z"
             },
             {
               "$type": "Document",
@@ -489,8 +475,7 @@
               "RelativeToolTip": "Techan\\ViewModels\\Products\\ProductUpdateVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T19:59:31.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T19:59:31.713Z"
             },
             {
               "$type": "Document",
@@ -526,8 +511,7 @@
               "RelativeToolTip": "Techan\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-01T18:35:56.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T18:35:56.395Z"
             },
             {
               "$type": "Document",
