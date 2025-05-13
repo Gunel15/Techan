@@ -16,7 +16,7 @@ namespace Techan
             {
                 opt.UseSqlServer(builder.Configuration.GetConnectionString("MSSQL"));
             });
-            builder.Services.AddIdentity<User,IdentityRole<Guid>>(x =>
+            builder.Services.AddIdentity<User,Role>(x =>
             {
                 x.User.AllowedUserNameCharacters = "abcdefghijklmnopqrstuvwxyz0123456789_";
                 x.Password.RequireUppercase = false;

@@ -1,11 +1,13 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using Techan.Enums;
 using Techan.Models;
 using Techan.ViewModels.Account;
 
 namespace Techan.Controllers
 {
-    public class AccountController(UserManager<User> _userManager, SignInManager<User> _signInManager) : Controller
+    public class AccountController(UserManager<User> _userManager, SignInManager<User> _signInManager,RoleManager<Role> _roleManager) : Controller
     {
         public async Task<IActionResult> Register()
         {
@@ -87,6 +89,16 @@ namespace Techan.Controllers
         {
             await _signInManager.SignOutAsync();
             return RedirectToAction("Index","Home");    
+        }
+
+        public async Task SeedDatas()
+        {
+            if (await _roleManager.Roles.AnyAsync())
+                return;
+            foreach(var role in Enum.GetValues(typeof(Roles)))
+            {
+                await _roleManager.CreateAsync(new Role(role.ToString()));
+            }
         }
     }
 }

@@ -5,7 +5,7 @@ using Microsoft.VisualStudio.Web.CodeGenerators.Mvc.Templates.General;
 using Techan.Models;
 namespace Techan.DataAccessLayer;
 
-    public class TechanDbContext:IdentityDbContext<User,IdentityRole<Guid>,Guid>
+    public class TechanDbContext:IdentityDbContext<User,Role,Guid>
     {
     public TechanDbContext(DbContextOptions opt):base(opt)
     {
